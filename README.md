@@ -1,7 +1,8 @@
 # Svg breakdown task
 
 Create a **nodejs** application, which will decompose big svg to small pieces and save them as new svg files
-Find target file in this repository, named **paris.svg**
+
+Find target file in this repository, named **paris_test.svg**
 
 Example:
 
@@ -27,4 +28,5 @@ Tips:
 1. Think about memory and disk efficiency
 2. Do not overlook things.
 3. There is no difference, what you use, express /koa/ plain nodejs
+4. Exporting only tower == success. Exporting all items === double success
 
